@@ -1,7 +1,6 @@
 import React from 'react';
 import './Header.css';
 import SearchIcon from "@material-ui/icons/Search";
-import StarsIcon from '@material-ui/icons/Stars';
 import ShoppingBasketIcon from '@material-ui/icons/ShoppingBasket';
 function Header() {
   return (
